@@ -15,5 +15,11 @@ HTML atau Hypertext Markup Language merupakan bahasa markup yang digunakan untuk
 - Menghasilkan halaman statis: kekurangan dari bahasa markup ini adalah menghasilkan halaman statis. Untuk mendapatkan halaman dinamis perlu memakan bahasa pemrograman tertentu, seperti VBScript atau Javascript dan juga animasi di Flash atau Shockwave.
 - Mempunyai tag yang sangat banyak: Kekurangan berikutnya adalah bahasa markup ini juga memiliki tag-tag yang sangat banyak jadi cukup sulit untuk dipelajari.
 - Halaman web yang tidak interaktif: Bahasa markup ini juga tidak bisa menghasilkan halaman interaktif. Interaktif artinya client bisa berinteraksi dengan server. Untuk mendapatkannya harus dengan menyisipkan bahasa pemrograman yang bisa menangani masalah tersebut, seperti Perl maupun Tcl.
+
+### Perkembangan HTML pada saat ini
+HTML sekarang dapat diintegrasikan dengan bahasa pemrogramman lain seperti CSS dan Javascript yang membuat web lebih dinamis dan interaktif. Sehingga dapat mengubah tampilan HTML seperti Font, Warna, dan lain-lain
+
+### Perusahaan yang menggunakan HTML
+Google adalah salah satu perusahaan yang menggunakan HTML untuk dasar tampilan website dan aplikasi web Google
   
 https://www.cloudeka.id/id/berita/teknologi/pengertian-html/
